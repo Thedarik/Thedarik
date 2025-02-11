@@ -67,6 +67,12 @@ A fully functional food ordering app with Firebase and state management.
 
 ---
 
+---
+
+![Snake animation](https://github.com/Thedarik/Thedarik/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 📫 Contact Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/samandar-eshpulatov-5175802b6/">
