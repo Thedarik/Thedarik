@@ -69,7 +69,7 @@ A fully functional food ordering app with Firebase and state management.
 
 ---
 
-![Snake animation](https://github.com/Thedarik/Thedarik/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Thedarik/Thedarik/blob/main/dist/github-contribution-grid-snake.svg)
 
 ---
 
