@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Samandar Eshpulatov!</h1>
-<h3 align="center">Senior Flutter Developer | Mobile App Architect | Open Source Contributor</h3>
+<h3 align="center">Midle Flutter Developer | Mobile App Architect | Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Thedarik&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
