@@ -77,7 +77,7 @@ A fully functional food ordering app with Firebase and state management.
   <a href="https://www.linkedin.com/in/samandar-eshpulatov-5175802b6/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://t.me/fluxzone">
+  <a href="https://t.me/thedarik">
     <img src="https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.upwork.com/freelancers/~0189c72f70e6b68f66">
