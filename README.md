@@ -88,5 +88,3 @@ A fully functional food ordering app with Firebase and state management.
 
 
 
-
-https://drive.google.com/file/d/1Y6BtuE1DgKv5Z-fx6JCDOhOi4TTvZfmz/view?usp=drivesdk
