@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me  
-🔹 **Senior Flutter Developer** with 3.5+ years of experience in **mobile app development**  
+🔹 **Middle Flutter Developer** with 3.5+ years of experience in **mobile app development**  
 🔹 Passionate about **high-performance, scalable, and maintainable** app architecture  
 🔹 **Experienced in:**  
 &nbsp;&nbsp;&nbsp;&nbsp;✔️ Flutter, Dart, Riverpod, Provider  
