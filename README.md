@@ -92,34 +92,6 @@ class SamandarEshpulatov {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🛒 E-Commerce Application
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thedarik&repo=ecommerce-app-flutter&theme=tokyonight&hide_border=true)](https://github.com/Thedarik/ecommerce-app-flutter)
-
-**Key Features:**
-- 🎨 Modern UI/UX with custom animations
-- 🔐 Firebase authentication & real-time database
-- 💳 Payment gateway integration
-- 📦 State management with Riverpod
-- 🏗️ Clean Architecture implementation
-
----
-
-### 🍕 Food Delivery App
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Thedarik&repo=food-delivery-app&theme=tokyonight&hide_border=true)](https://github.com/Thedarik/food-delivery-app)
-
-**Key Features:**
-- 📍 Real-time location tracking
-- 🛒 Shopping cart functionality
-- 💰 Multiple payment options
-- 📱 Push notifications
-- 🎯 Order management system
-
-</div>
-
 ---
 
 ## 💼 Professional Experience
