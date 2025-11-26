@@ -312,7 +312,6 @@ graph LR
 
 <div align="center">
   <img height="180em" src="https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thedarik&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
 </div>
 
 <div align="center">
