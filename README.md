@@ -16,9 +16,7 @@
 [![Upwork](https://img.shields.io/badge/Hire_Me_on_Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0189c72f70e6b68f66)
 [![Telegram](https://img.shields.io/badge/Quick_Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thedarik)
 
-[![GitHub followers](https://img.shields.io/github/followers/Thedarik?label=Followers&style=for-the-badge&color=00D9FF&logo=github)](https://github.com/Thedarik?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/Thedarik?label=Total%20Stars&style=for-the-badge&color=FFD700&logo=github)](https://github.com/Thedarik?tab=repositories)
-<img src="https://img.shields.io/badge/Response_Time-Under_24h-00D9FF?style=for-the-badge&logo=clock" alt="Response Time" />
+<img src="https://komarev.com/ghpvc/?username=Thedarik&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
