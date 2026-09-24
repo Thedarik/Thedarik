@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Samandar Eshpulatov — Flutter developer, Tashkent. Vault pass." />
+  <img src="assets/hero.png" width="100%" alt="Samandar Eshpulatov — Flutter developer, Tashkent. Vault pass." />
 </p>
 
 <p align="center">
@@ -23,9 +23,9 @@
 ---
 
 <p align="center">
-  <img src="assets/pass-hazina.svg" width="32%" alt="Hazina pass" />
-  <img src="assets/pass-eduflix.svg" width="32%" alt="EduFlix pass" />
-  <img src="assets/pass-uznext.svg" width="32%" alt="UzNext pass" />
+  <img src="assets/pass-hazina.png" width="32%" alt="Hazina pass" />
+  <img src="assets/pass-eduflix.png" width="32%" alt="EduFlix pass" />
+  <img src="assets/pass-uznext.png" width="32%" alt="UzNext pass" />
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
 ---
 
 <p align="center">
-  <img src="assets/plate-stack.svg" width="100%" alt="Flutter, Dart, Firebase, REST, Python, Vite" />
+  <img src="assets/plate-stack.png" width="100%" alt="Flutter, Dart, Firebase, REST, Python, Vite" />
 </p>
 
 **Public Flutter a recruiter can clone**
