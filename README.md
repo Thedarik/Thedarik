@@ -56,7 +56,7 @@ Hazina source stays private (`hazina_app`) — store keys. The pass above is wha
 Looking for a Flutter / mobile role in Tashkent (office or hybrid).
 
 <p align="center">
-  <a href="https://t.me/thedarik"><img src="assets/footer-stamp.svg" width="100%" alt="Telegram, LinkedIn, Upwork" /></a>
+  <a href="https://t.me/thedarik"><img src="assets/footer-stamp.png" width="100%" alt="Telegram, LinkedIn, Upwork" /></a>
 </p>
 
 <p align="center">
