@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Thedarik/Thedarik/main/assets/hero.png?v=4" width="100%" alt="The Darik — Flutter developer" />
+<img src="https://raw.githubusercontent.com/Thedarik/Thedarik/main/assets/hero.png?v=4" width="100%" alt="The Darik — Full Stack developer, Tashkent" />
 
-# 🚀 Transforming Ideas Into Powerful Mobile Experiences
+# 🚀 Transforming Ideas Into Real Products — App, Web, API
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Hi!+I'm+Samandar+Eshpulatov+%F0%9F%91%8B;Middle+Flutter+Developer+with+3.5%2B+Years;I+Build+Apps+That+Users+Love+%E2%9D%A4%EF%B8%8F;Clean+Code+%7C+Scalable+Architecture;From+Concept+to+App+Store+%F0%9F%9A%80;Let's+Build+Something+Amazing!#gh-light-mode-only" alt="Typing" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi!+I'm+Samandar+Eshpulatov+%F0%9F%91%8B;Middle+Flutter+Developer+with+3.5%2B+Years;I+Build+Apps+That+Users+Love+%E2%9D%A4%EF%B8%8F;Clean+Code+%7C+Scalable+Architecture;From+Concept+to+App+Store+%F0%9F%9A%80;Let's+Build+Something+Amazing!#gh-dark-mode-only" alt="Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Hi!+I'm+Samandar+Eshpulatov+%F0%9F%91%8B;Full+Stack+Developer+with+3.5%2B+Years;Flutter+%C2%B7+TypeScript+%C2%B7+Python;I+ship+apps,+CRM+and+APIs;Clean+Code+%7C+Scalable+Architecture;Let's+Build+Something+Amazing!#gh-light-mode-only" alt="Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi!+I'm+Samandar+Eshpulatov+%F0%9F%91%8B;Full+Stack+Developer+with+3.5%2B+Years;Flutter+%C2%B7+TypeScript+%C2%B7+Python;I+ship+apps,+CRM+and+APIs;Clean+Code+%7C+Scalable+Architecture;Let's+Build+Something+Amazing!#gh-dark-mode-only" alt="Typing" />
 
 </div>
 
@@ -23,7 +23,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,ts,python,figma,git,androidstudio&theme=dark" alt="Stack" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,ts,python,vite,html,css,git,androidstudio,figma,postgres&theme=dark" alt="Stack" />
 
 </div>
 
@@ -113,20 +113,18 @@ Hazina production kodi private (`hazina_app`) — store / Firebase kalitlari. Re
 ```dart
 final mySkills = {
   'mobile': ['Flutter', 'Dart', 'iOS', 'Android'],
-  'stateManagement': ['Riverpod ⭐', 'Provider', 'Bloc', 'GetX'],
-  'backend': ['Firebase 🔥', 'Supabase', 'REST API', 'GraphQL'],
+  'web': ['TypeScript', 'Vite', 'HTML/CSS'],
+  'backend': ['Python', 'Firebase', 'REST API'],
+  'stateManagement': ['Riverpod', 'Provider', 'Bloc'],
   'architecture': ['Clean Architecture', 'MVVM', 'Repository'],
   'tools': ['Git', 'Figma', 'Postman', 'CI/CD'],
-  'testing': ['Unit Tests', 'Widget Tests', 'Integration Tests'],
 };
-
-// ⭐ = My favorite and most proficient
 ```
 
 **📊 Experience Level:**
-- 🟢 **Expert:** Flutter, Dart, Firebase, Riverpod
-- 🟢 **Advanced:** Clean Architecture, REST APIs, UI/UX
-- 🟡 **Intermediate:** GraphQL, Native Development
+- 🟢 **Strong:** Flutter, Dart, Firebase, REST APIs
+- 🟢 **Strong:** TypeScript / Vite (EduFlix web CRM)
+- 🟢 **Strong:** Python backends, product launch (Play Market + web)
 
 </td>
 <td width="50%">
@@ -297,7 +295,7 @@ graph LR
 3. **🎨 Design & Architecture** — Planning for scale and maintainability
 4. **💻 Agile Development** — Bi-weekly demos, constant feedback
 5. **🧪 Rigorous Testing** — Unit, widget, and integration tests
-6. **🚀 Deployment & Launch** — App store submission and monitoring
+6. **🚀 Deployment & Launch** — Play Market, web, backend
 7. **📈 Post-Launch Support** — Bug fixes, updates, and improvements
 
 ---
@@ -308,11 +306,11 @@ graph LR
 <tr>
 <td width="50%">
 
-### 🆕 **New App Development**
-- 📱 Complete app from scratch
-- 🎨 UI/UX implementation from designs
-- 🏗️ Architecture planning
-- 📦 App store deployment
+### 🆕 **New Product Development**
+- 📱 Flutter apps (iOS / Android)
+- 🌐 Web CRM and dashboards
+- 🔌 Python / Firebase backends
+- 📦 Play Market + web launch
 - 💰 **Starting from $3,000**
 
 ### 🔧 **App Maintenance & Updates**
@@ -333,7 +331,7 @@ graph LR
 - 💰 **$60/hour**
 
 ### 👨‍🏫 **Consulting & Mentoring**
-- 🎓 Flutter best practices
+- 🎓 Full-stack / Flutter best practices
 - 🏗️ Architecture review
 - 👥 Team training
 - 📊 Code review
@@ -385,7 +383,7 @@ CEO, TechStart
 
 ### ⭐⭐⭐⭐⭐
 
-*"Best Flutter developer I've worked with. Clean code, great communication, and delivered exactly what we needed. Will hire again!"*
+*"Best full-stack developer I've worked with. Clean code, great communication, and delivered exactly what we needed. Will hire again!"*
 
 **— Sarah L., UK**  
 Product Manager
@@ -412,7 +410,7 @@ Startup Founder
 
 ### 🎯 **Let's Turn Your Idea Into Reality!**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Need+a+Flutter+app%3F;Want+to+scale+your+mobile+presence%3F;Looking+for+clean%2C+maintainable+code%3F;Let's+build+something+amazing+together!" alt="CTA" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Need+an+app,+web+or+API%3F;Want+the+full+product,+not+only+UI%3F;Looking+for+clean,+maintainable+code%3F;Let's+build+something+amazing+together!" alt="CTA" />
 
 ### 📞 **Get In Touch**
 
