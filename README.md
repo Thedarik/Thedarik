@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.png" width="100%" alt="Samandar Eshpulatov — Flutter developer, Tashkent. Vault pass." />
+  <img src="https://raw.githubusercontent.com/Thedarik/Thedarik/main/assets/hero.png" width="100%" alt="Samandar Eshpulatov — Flutter developer, Tashkent. Vault pass." />
 </p>
 
 <p align="center">
@@ -23,9 +23,9 @@
 ---
 
 <p align="center">
-  <img src="assets/pass-hazina.png" width="32%" alt="Hazina pass" />
-  <img src="assets/pass-eduflix.png" width="32%" alt="EduFlix pass" />
-  <img src="assets/pass-uznext.png" width="32%" alt="UzNext pass" />
+  <img src="https://raw.githubusercontent.com/Thedarik/Thedarik/main/assets/pass-hazina.png" width="32%" alt="Hazina pass" />
+  <img src="https://raw.githubusercontent.com/Thedarik/Thedarik/main/assets/pass-eduflix.png" width="32%" alt="EduFlix pass" />
+  <img src="https://raw.githubusercontent.com/Thedarik/Thedarik/main/assets/pass-uznext.png" width="32%" alt="UzNext pass" />
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
 ---
 
 <p align="center">
-  <img src="assets/plate-stack.png" width="100%" alt="Flutter, Dart, Firebase, REST, Python, Vite" />
+  <img src="https://raw.githubusercontent.com/Thedarik/Thedarik/main/assets/plate-stack.png" width="100%" alt="Flutter, Dart, Firebase, REST, Python, Vite" />
 </p>
 
 **Public Flutter a recruiter can clone**
@@ -56,7 +56,7 @@ Hazina source stays private (`hazina_app`) — store keys. The pass above is wha
 Looking for a Flutter / mobile role in Tashkent (office or hybrid).
 
 <p align="center">
-  <a href="https://t.me/thedarik"><img src="assets/footer-stamp.png" width="100%" alt="Telegram, LinkedIn, Upwork" /></a>
+  <a href="https://t.me/thedarik"><img src="https://raw.githubusercontent.com/Thedarik/Thedarik/main/assets/footer-stamp.png" width="100%" alt="Telegram, LinkedIn, Upwork" /></a>
 </p>
 
 <p align="center">
