@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Thedarik/Thedarik/main/assets/hero.png?v=3" width="100%" alt="Samandar Eshpulatov — Flutter developer, Tashkent" />
+<img src="https://raw.githubusercontent.com/Thedarik/Thedarik/main/assets/hero.png?v=4" width="100%" alt="The Darik — Flutter developer" />
 
 # 🚀 Transforming Ideas Into Powerful Mobile Experiences
 
