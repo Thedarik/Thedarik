@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Thedarik/Thedarik/main/assets/hero.png?v=6" width="100%" alt="The Darik — Full Stack Developer, Tashkent" />
+<img src="https://raw.githubusercontent.com/Thedarik/Thedarik/main/assets/banner.png?v=1" width="100%" alt="The Darik — Full Stack Developer, Tashkent" />
 
 # 🚀 Transforming Ideas Into Real Products — App, Web, API
 
